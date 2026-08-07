@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-82g0pu.introduse.me/sitemap.xml
